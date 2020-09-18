@@ -1,1 +1,2 @@
 this is a new file added by NIshant
+Hi there, this is 2nd line that i have typed.
