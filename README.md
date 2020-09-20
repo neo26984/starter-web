@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 
 It's Nishant's copyright
 adding one more line
+All rights reserved.
